@@ -1,10 +1,19 @@
-# Script SpamWa
+Welcome
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
-- $ pkg install python
-- $ pkg install git
-- $ python3 -m pip install requests
-- $ git clone https://github.com/randykyle76/Spam-Wa
-- $ cd Spam-Wa
-- $ python3 spam.py
+# Spam-wa
+Script termux Spam-wa
 
-Selamat mencoba !
+<details open><summary><code>Perintah Script?</code></summary>
+
+```php
+$ pkg install python
+$ pkg install git
+$ python3 -m pip install requests
+$ git clone https://github.com/randykyle76/Spam-Wa
+$ cd Spam-Wa
+$ python3 spam.py
+
+```
+# Selamat mencoba !

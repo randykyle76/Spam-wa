@@ -1,4 +1,3 @@
-#!/usr/bin/python
 import requests,random,json,time,sys,os,re
 # -----------------------------------------------------------
 
